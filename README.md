@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/aluedeke/Alternator.png?label=ready&title=Ready)](https://waffle.io/aluedeke/Alternator)
 Alternator - A DynamoDB Mock Server
 ==========
 
